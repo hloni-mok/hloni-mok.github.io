@@ -1,4 +1,4 @@
-# Welcome to Hloni's Profile Page :wave:
+# Welcome to Hloni's Profile Page
 Passionate about data📊, and using it to improve systems💻, processes⚙️ and lives🌍
 
 
