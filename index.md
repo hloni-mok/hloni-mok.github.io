@@ -1,4 +1,4 @@
-# Welcome to Hloni's Profile Page
+# Welcome to Hloni's Profile Page 👋
 Passionate about data📊, and using it to improve systems💻, processes⚙️ and lives🌍
 
 
@@ -6,7 +6,6 @@ Passionate about data📊, and using it to improve systems💻, processes⚙️ 
 
 🎯 [Get intouch with me](https://www.linkedin.com/in/hlonolofatso-ernest-mokotoane-a16b51112/)📧 
 
-## My projects
-  - [Audio Conversion](https://github.com/hloni-mok/AudioConversion)🔉
+🎯 [Check my repository](https://github.com/hloni-mok)
 
 
